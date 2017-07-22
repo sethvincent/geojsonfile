@@ -1,6 +1,6 @@
 {
   "name": "geojsonfile",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "read and write a feature collection in a json file",
   "main": "index.js",
   "scripts": {
